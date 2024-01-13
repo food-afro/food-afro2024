@@ -1,0 +1,79 @@
+body{
+    background-image: url(../image/fond.jpg);
+    background-attachment: fixed;
+    background-repeat: round;
+}
+main{
+    padding-top: 100px;
+    color: #ece9e0;
+}
+header,footer{
+    background:#ffbe02;
+}
+main p{
+    padding: 18px;
+    text-align: justify;
+    background-color: #000000a4;
+    border-radius: 10%;
+}
+main img{
+    border-radius: 10%;
+    margin-left: 20%;
+}
+main .recette{
+    font-size: 22px;
+}
+a{
+    text-decoration: none;
+}
+button{
+    margin-top: 50px;
+    margin-left: 10px;
+}
+table{
+    margin-left: 30%;
+}
+.container img{
+    cursor: pointer;
+}
+.container h2, h3, h4{
+    text-align: center;
+    background-color: #ffffffe3;
+    color: #000000;
+    padding: 12px;
+    margin-top: 12px;
+}
+.presentation img{
+    height: 100px;
+    width: 200px;
+    border-radius: 50%;
+}
+.recette img{
+    height: 200px;
+    width: 200px;
+
+}
+.plat{
+    box-shadow: -1px 0 10px #000000;
+    margin: 10px;
+    width: 120px;
+    height: 250px;
+    border-radius: 5px;
+    background: #fff;
+}
+.cover{
+    width: 600px;
+    height: 300px;
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.container{
+    background-color: #000000a4;
+    padding: 30px;
+    font-size: 18px;
+}
+.img3{
+    margin-left: 10%;
+}

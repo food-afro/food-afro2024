@@ -1,0 +1,25 @@
+.overlay a{
+    font-size: 18px;
+    color: #E44D26;
+}
+.nav-list a p.active{
+    color: #f5c903fb;
+}
+.overlay input{
+    padding: 12px;
+    font-size: 16px;
+    color: #fff;
+    background-color: #38A3A5;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.overlay a:hover{
+    padding: 12px;
+    font-size: 16px;
+    color: #fff;
+    background-color: #E44D26;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+}
